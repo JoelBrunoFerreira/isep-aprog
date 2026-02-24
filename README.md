@@ -1,4 +1,4 @@
-# Algoritmia e Programação (APROG) — 2022/2023
+# Algoritmia e Programação (APROG) — ISEP 2022/2023
 
 Repositório da Unidade Curricular de **Algoritmia e Programação** do 1º ano da Licenciatura em Engenharia Informática, lecionada no ano letivo de 2022/2023.
 
